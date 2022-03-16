@@ -1,0 +1,8 @@
+PizzaAlgo
+
+
+1.Decide pizza
+2.Order Pizza
+3.wait for pizza
+4.pay delivery guy
+5.eat
