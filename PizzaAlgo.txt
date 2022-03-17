@@ -6,3 +6,5 @@ PizzaAlgo
 3.wait for pizza
 4.pay delivery guy
 5.eat
+6. love it
+7. have a good review 
